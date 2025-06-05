@@ -1,2 +1,11 @@
 
-# Auction house support added to Eden_Shops
+-- Auction house support added to Eden_Shops
+-- modified by Huscurian
+z
+name=E.D.E.N. Auction House
+id=edenshopauctions
+description=Adds auction functionality to specific tiles.
+poster=preview.png
+
+-- initialize the files necessary to run the mod
+lua { "client" }
