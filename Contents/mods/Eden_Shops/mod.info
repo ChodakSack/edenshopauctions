@@ -1,0 +1,7 @@
+name=Eden_Shops
+id=Eden_Shops
+description=Eden_Shops
+poster=poster.png
+pack=npcshop
+tiledef=npcshop 1212
+require=nshops

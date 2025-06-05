@@ -1,0 +1,19 @@
+VERSION = 1,
+
+option EdenShops.CanSellAnything
+{
+	type = boolean, default = false,
+	page = EdenShops, translation = EdenShops_CanSellAnything,
+}
+
+option EdenShops.Wallets
+{
+	type = string, default = Base.CreditCard;Base.Wallet;Base.KeyRing,
+	page = EdenShops, translation = EdenShops_Wallets,
+}
+
+option EdenShops.DBG
+{
+	type = boolean, default = false,
+	page = EdenShops, translation = EdenShops_DBG,
+}

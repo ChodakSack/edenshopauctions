@@ -1,0 +1,22 @@
+module Base {
+
+	model EdenCoin
+	{
+		mesh = WorldItems/Button,
+		texture = Item_EdenCoin,
+		scale = 1,
+	}
+
+	item EdenCoin
+	{
+		DisplayName	=	Eden Coin,
+		Icon	=	EdenCoin,
+		WorldStaticModel = EdenCoin,
+		Count	=	1,
+		Weight	=	0.01,
+		CanBeEquipped = FALSE,
+		Type	=	Normal,
+	}
+
+
+}

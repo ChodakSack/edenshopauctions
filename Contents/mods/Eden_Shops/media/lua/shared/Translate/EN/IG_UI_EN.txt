@@ -1,0 +1,10 @@
+IGUI_EN = {
+    IGUI_Tab_Meds = "Meds",
+    IGUI_Tab_Tools = "Tools",
+    IGUI_Tab_Materials = "Materials",
+    IGUI_Tab_Ammo = "Ammo",
+    IGUI_Tab_Weapons = "Weapons",
+    IGUI_Tab_Vehicles = "Vehicles",
+    IGUI_Tab_Automotive = "Automotive",
+    IGUI_Tab_Eden = "Eden",
+}

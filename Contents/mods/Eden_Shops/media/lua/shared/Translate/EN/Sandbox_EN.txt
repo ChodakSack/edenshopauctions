@@ -1,0 +1,12 @@
+
+Sandbox_EN = {
+	Sandbox_EdenShops = "Eden Shops",
+
+	Sandbox_EdenShops_CanSellAnything = "Can Sell Anything",
+	Sandbox_EdenShops_CanSellAnything_tooltip = "Allow Players to Sell Anything",
+
+    Sandbox_EdenShops_Wallets = "Wallets",
+	Sandbox_EdenShops_Wallets_tooltip = "List of Wallet items players can use. Use ; as delimiter"
+
+    Sandbox_EdenShops_DBG = "Debug Print",
+}
